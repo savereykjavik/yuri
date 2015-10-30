@@ -46,13 +46,11 @@ h4 {
   color: rgba(85, 85, 85, 0.82);
   padding-top: 30px;
   padding-bottom: 30px;
+  
   text-align: justify;
-
 
   font-family: "Open sans", sans-serif !important;
   text-transform: none;
-  font-size: 14px;
-  text-align: left;
   letter-spacing: 0px !important;
   font-weight: 300;
   font-size: 16px;
