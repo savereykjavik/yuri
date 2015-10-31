@@ -43,6 +43,8 @@ body {
 
 #contact {
   max-width: 650px;
+      padding-right: 30px;
+    padding-left: 30px;
 }
 
 .text-vcenter {
@@ -105,7 +107,7 @@ h4 {
 
 footer {
   color: #2E2E2E;
-  padding: 30px 0 80px 15px;
+  padding: 30px 0 80px 0px;
 }
 
 a {
