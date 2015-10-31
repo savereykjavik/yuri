@@ -6,6 +6,9 @@ Copyright (c) Script Tutorials. All rights reserved.
 This stylesheet and the associated (x)html may be modified in any way to fit your requirements.
 ================================================================================================= */
 
+.navbar-default .navbar-nav>li>a {
+  font-size: 16px;
+}
 
 html, body {
   height: 100%;
@@ -43,8 +46,8 @@ body {
 
 #contact {
   max-width: 650px;
-      padding-right: 30px;
-    padding-left: 30px;
+  padding-right: 30px;
+  padding-left: 30px;
 }
 
 .text-vcenter {
