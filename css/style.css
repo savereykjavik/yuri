@@ -134,3 +134,14 @@ a {
 .navbar-default {  
   text-align: right;
 }
+
+#navbar-collapse-main {
+    border-top: none;
+    box-shadow: none;
+}
+
+.navbar-toggle{border-color: #fff !important;}
+.icon-bar{background-color: #fff !important;}
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: rgba(221, 221, 221, 0.48) !important;
+}
