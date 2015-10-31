@@ -10,12 +10,8 @@ This stylesheet and the associated (x)html may be modified in any way to fit you
 html, body {
   height: 100%;
   width: 100%;
+}
 
-}
-#manifesto {
-padding-left:50px;
-padding-right: 50px;
-}
 
 #contact {
       max-width: 650px;
@@ -25,7 +21,7 @@ body {
   font-family: Dosis;
   text-transform: uppercase;
   font-size: 14px;
-  line-height: 1.428571429;
+  line-height: 1.4;
   color: #FFF;
   background-color: #00cbc8;
   letter-spacing: 3px;
@@ -85,20 +81,10 @@ h4 {
 }
 
 
-h7 {
-  color: #bbb;
-}
-
 .navbar-default {
   background-color: none;
 }
 
-.brandcontainer {
-  padding-left: 40px;
-  padding-right: 40px;
-  max-width: 1000px;
-  text-align: center;
-}
 
 .btn-lg {
   padding: 11px 11px;
@@ -118,7 +104,7 @@ h7 {
   margin: 0 auto;
   max-width: 650px;
   padding-left: 15px;
-    padding-right: 15px;
+  padding-right: 15px;
 }
 
 
@@ -136,27 +122,6 @@ h7 {
   color: #fff;
   border-color: #000;
 
-}
-
-
-#biglogo {
-  width: 25vw;
-  height: 25vw;
-  max-width: 200px;
-  max-height: 200px;
-}
-
-#permlogo {
-  position: absolute;
-  top:15px;
-  left: 5vw;
-/*  top: 2vw;
-  left: 5vw;*/
-  z-index: 1040;
- width: 25vw;
-  height: 25vw;
-  max-width: 200px;
-  max-height: 200px;
 }
 
 
@@ -178,6 +143,7 @@ h7 {
   text-align: center;
   vertical-align: middle;
 }
+
 .columntext h1 {
   font-size: 11em;
   font-weight: 400;
@@ -188,10 +154,8 @@ h7 {
 /* additional sections */
 #home {
   display: table;
-  height: 98%;
   position: relative;
   width: 100%;
-
 }
 
 #about {
