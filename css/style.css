@@ -75,11 +75,19 @@ h3 {
   font-family: "source sans pro", "Nunito", "Helvetica Neue", "Helvetica", sans-serif !important;
   font-weight: 600 !important;
   text-transform: none;
-  font-size: 1.8em;
+  font-size: 1em;
   line-height: 1.4;
   padding-bottom: 35px;
   letter-spacing: 2px;
   margin-top: 10px;
+}
+
+
+
+@media (min-width: 768px) {
+  h3 {
+      font-size: 1.8em;
+  }
 }
 
 h4 {
