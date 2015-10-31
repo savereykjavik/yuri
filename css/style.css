@@ -94,6 +94,16 @@ h3 {
     padding-right: 25px;
     padding-top: 35px;
   }
+  .navbar-header {
+    background-color: rgba(255, 255, 255, 0.5);
+  }
+  .navbar-collapse {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  .navbar-default .navbar-nav>li>a {
+    color: #fff;
+  }
+
 }
 
 
