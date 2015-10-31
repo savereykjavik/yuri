@@ -15,8 +15,12 @@ html, body {
 #manifesto {
 padding-left:50px;
 padding-right: 50px;
-
 }
+
+#contact {
+      max-width: 650px;
+}
+
 body {
   font-family: Dosis;
   text-transform: uppercase;
